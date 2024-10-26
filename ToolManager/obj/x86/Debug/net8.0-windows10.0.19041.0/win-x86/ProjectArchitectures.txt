@@ -1,0 +1,1 @@
+C:\Users\ASUS\Project\ToolManager\ToolManager\ToolManager.csproj;x86
