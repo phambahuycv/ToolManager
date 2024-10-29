@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\ASUS\Project\ToolManager\ToolManager\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-26T07:04:18.481</Modified>
+      <Modified>2024-10-29T08:34:03.526</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-26T07:04:18.218</Modified>
+      <Modified>2024-10-29T08:34:03.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\ToolManager.runtimeconfig.json">
       <PackagePath>ToolManager.runtimeconfig.json</PackagePath>
-      <Modified>2024-10-26T03:28:24.569</Modified>
+      <Modified>2024-10-29T08:30:13.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\ToolManager.dll">
       <PackagePath>ToolManager.dll</PackagePath>
-      <Modified>2024-10-26T07:04:17.836</Modified>
+      <Modified>2024-10-29T08:34:03.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\apphost.exe">
       <PackagePath>ToolManager.exe</PackagePath>
-      <Modified>2024-10-26T07:04:17.889</Modified>
+      <Modified>2024-10-29T08:34:03.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-x86\native\WebView2Loader.dll">
       <PackagePath>runtimes\win-x86\native\WebView2Loader.dll</PackagePath>
@@ -871,35 +871,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\ToolManager.deps.json">
       <PackagePath>ToolManager.deps.json</PackagePath>
-      <Modified>2024-10-26T03:28:24.450</Modified>
+      <Modified>2024-10-29T08:30:13.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-26T02:40:37.884</Modified>
+      <Modified>2024-10-26T08:34:47.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-10-26T02:40:37.885</Modified>
+      <Modified>2024-10-26T08:34:47.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <Modified>2024-10-26T02:40:37.887</Modified>
+      <Modified>2024-10-26T08:34:47.441</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <Modified>2024-10-26T02:40:37.887</Modified>
+      <Modified>2024-10-26T08:34:47.441</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <Modified>2024-10-26T02:40:37.888</Modified>
+      <Modified>2024-10-26T08:34:47.441</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <Modified>2024-10-26T02:40:37.889</Modified>
+      <Modified>2024-10-26T08:34:47.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Project\ToolManager\ToolManager\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2024-10-26T02:40:37.890</Modified>
+      <Modified>2024-10-26T08:34:47.442</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

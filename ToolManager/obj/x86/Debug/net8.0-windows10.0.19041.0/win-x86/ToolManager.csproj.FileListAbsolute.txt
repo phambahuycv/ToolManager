@@ -249,3 +249,4 @@ C:\Users\ASUS\Project\ToolManager\ToolManager\obj\x86\Debug\net8.0-windows10.0.1
 C:\Users\ASUS\Project\ToolManager\ToolManager\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\qualifiers.txt.intermediate
 C:\Users\ASUS\Project\ToolManager\ToolManager\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ASUS\Project\ToolManager\ToolManager\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\ProjectArchitectures.txt
+C:\Users\ASUS\Project\ToolManager\ToolManager\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\ToolManager.sourcelink.json

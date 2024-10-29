@@ -26,30 +26,6 @@ namespace ToolManager
         public MainWindow()
         {
             this.InitializeComponent();
-        }
-
-        private async void myButton_Click(object sender, RoutedEventArgs e)
-        {
-            var welcomeDialog = new ContentDialog()
-            {
-                Title = "Hello from HelloWorld",
-                Content = "Welcome to your first Windows App SDK app.",
-                CloseButtonText = "Close",
-                XamlRoot = myButton.XamlRoot
-            };
-            await welcomeDialog.ShowAsync();
-        }
-        private async void btnHi_Click(object sender, RoutedEventArgs e)
-        {
-            var hiiDialog = new ContentDialog()
-            {
-                Title = "Hi there",
-                Content = "Welcome to here",
-                CloseButtonText = "Close",
-                XamlRoot = btnHii.XamlRoot
-            };
-            await hiiDialog.ShowAsync();
-        }
-        
+        }   
     }
 }
